@@ -48,3 +48,5 @@ Simple Calculator
 Perform operations (+, -, *, /) based on user input.
 
 ✨ Keep practicing and building your logic step by step!
+
+Author>>Anirban Chattaraj
